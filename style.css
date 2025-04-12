@@ -99,7 +99,8 @@ html,body{
         width: 32px;
     }
     .navbar-btns button{
-        font-size: 14px;
+        font-size: 12px;
+        padding: 10px ;
     }
     .navbar-btns i{
         font-size: 20px;
@@ -107,6 +108,10 @@ html,body{
     .navbar{
         padding: 30px;
     }
+    .navbar-btns{
+        gap: 8px;
+    }
+    
 }
 .herosec{
     display: flex;
